@@ -11,8 +11,6 @@ Snippets
 <b>Splash Screen</b><br>
 <br>
 	<img src="/snippets/splashscreen.png" width="40%">
-<br>
-<br>	
 
 <b>Login</b><br>
 <br>
